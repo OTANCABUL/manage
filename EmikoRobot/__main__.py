@@ -83,11 +83,11 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 *Yoo mek {} !*
-✪ Ini bot untuk manage ama musikan di grup lu pada [✨](https://telegra.ph/file/0a03816bee44cf9d7d79b.jpg)
-────────────────────────
+✪ Ini bot untuk manage ama musikan di grup lu pada [🥵](https://telegra.ph/file/b81bc61a818650932f808.jpg)
+────────────────────────────────
 🐒 *Uptime:* `{}`
 🐒 `{}` *users, across* `{}` *chats.*
-────────────────────────
+────────────────────────────────
 ✪ Ketik aja tuh tombol kan bisa baca lu pada.
 ✪ powered by @OtanCabul 🐒
 ✪ Bantuan /Help
